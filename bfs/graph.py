@@ -1,4 +1,4 @@
-# Graph traversal using BFS algortithm
+# Graph traversal using BFS algorithm
 from collections import defaultdict
 
 class Graph:
